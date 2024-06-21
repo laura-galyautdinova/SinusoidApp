@@ -1,0 +1,5 @@
+C:\Users\User\SinusoidApp\SinusoidApp\obj\Debug\net8.0\SinusoidApp.csproj.AssemblyReference.cache
+C:\Users\User\SinusoidApp\SinusoidApp\obj\Debug\net8.0\SinusoidApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\SinusoidApp\SinusoidApp\obj\Debug\net8.0\SinusoidApp.AssemblyInfoInputs.cache
+C:\Users\User\SinusoidApp\SinusoidApp\obj\Debug\net8.0\SinusoidApp.AssemblyInfo.cs
+C:\Users\User\SinusoidApp\SinusoidApp\obj\Debug\net8.0\SinusoidApp.csproj.CoreCompileInputs.cache
